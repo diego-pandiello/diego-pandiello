@@ -5,8 +5,8 @@
 I've been working as a software engineer for over 10 years, focusing on backend technologies, particularly in the fintech sector. My expertise includes high-performance payment processing systems, cloud infrastructure, and scalable architectures. Passionate about building robust, secure, and efficient solutions.
 
 ## 🛠 Tech Stack & Expertise
-- **Backend:** .NET, C#, ASP.NET Corea
-- **Cloud:** Azure (Kubernetes, Cosmos DB, Key Vault, Service Bus)
+- **Backend:** .NET, C#, ASP.NET Core
+- **Cloud:** K8s, Azure (Cosmos DB, Key Vault, Service Bus, Event Hubs, VNets, Private Links, FrontDoor)
 - **Payments & Security:** PCI DSS, SEPA, Card Encryption (HSM)
 - **Event-Driven Architectures:** Event Sourcing, CQRS, Orleans
 - **DevOps & CI/CD:** Docker, Kubernetes, GitHub Actions, Azure DevOps
