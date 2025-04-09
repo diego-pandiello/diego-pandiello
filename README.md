@@ -39,7 +39,7 @@ I've been working as a software engineer for over 10 years, focusing on backend 
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [github.com/pandiello](https://github.com/pandiello)
+- **GitHub:** [github.com/pandiello](https://github.com/diego-pandiello)
 - **LinkedIn:** [linkedin.com/in/diegofernandezpandiello](https://www.linkedin.com/in/diegofernandezpandiello/)
 
 ---
